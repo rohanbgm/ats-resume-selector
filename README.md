@@ -6,7 +6,7 @@ pip install -r requirements.txt
 3. Run the app
 streamlit run ats_app.py
 4. Open in browser
-http://localhost:8501
+https://ats-resume-selector-yp2gf39rrbwyut2gvprqsz.streamlit.app/
 📊 How It Works
 
 Extracts text from PDF/DOCX resumes
